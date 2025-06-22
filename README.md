@@ -1,5 +1,6 @@
 # 👋 Welcome to H123-lab's Bioinformatics Portfolio
 
+🎓 Bioinformatics & Structural Biology Researcher | MD Simulations, Cryo-EM, Docking Pipelines, AI-Driven Drug Discovery | GROMACS • AlphaFold2 • ChimeraX • Python • AutoDock Vina
 ## 🛠️ Tools & Frameworks
 
 ![GROMACS](https://img.shields.io/badge/GROMACS-Blue?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMmI4NmYwIi8+PC9zdmc+)
@@ -26,12 +27,14 @@
 ![BioConductor](https://img.shields.io/badge/BioConductor-00aaff?style=flat-square)
 
 🧠 Passionate about Structural Biology • Drug Discovery • Computational Cardiovascular Research
+>
+> ## 🔬 Featured Project: Bioinformatics & MD Portfolio
 
-## 🔬 Featured Project
+🔗 **[bioinformatics-md-portfolio](https://github.com/H123-lab/bioinformatics-md-portfolio)**  
+Comprehensive collection of input files, docking pipelines, MD simulations, interaction plots, automation scripts, and structure predictions.  
 
-### [bioinformatics-md-portfolio](https://github.com/H123-lab/bioinformatics-md-portfolio)
-> Molecular docking, MD simulations, and visualization of hERG channel–ligand interactions  
-> Tools: GROMACS, AutoDock Vina, ChimeraX, Python
+🧰 **Tech Stack:** GROMACS, AutoDock Vina, ChimeraX, Python (MDTraj, BioPython), CryoSPARC, RELION, AlphaFold2, Rosetta  
+📊 **Use Cases:** hERG modeling, RMSD/H-bond analysis, virtual screening, protein design, AI-tox prediction  
 
 ## 🧰 Technical Skills
 
