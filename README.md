@@ -22,6 +22,6 @@
 _Manuscripts in preparation on drug-hERG simulations and cardiotoxicity prediction._
 
 ## 🌐 Connect
-- 🔗 [LinkedIn](https://ae.linkedin.com/in/hassa-iftikhar-69371915b)
+- 🔗 (https://ae.linkedin.com/in/hassa-iftikhar-69371915b)
 - ✉️ [hassabatool@yahoo.com]
 - 🔬 ORCID: [0000-0002-0341-7800]
